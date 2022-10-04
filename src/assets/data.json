@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Apple/सेब",
+    "price": 100,
+    "thumbnail": "https://hindireadduniya.com/wp-content/uploads/2021/12/apple-%E0%A4%B8%E0%A5%87%E0%A4%AC.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Banana/केला",
+    "price": 150,
+    "thumbnail": "https://hindireadduniya.com/wp-content/uploads/2021/12/Banana-%E0%A4%95%E0%A5%87%E0%A4%B2%E0%A4%BE.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Orange/संतरा",
+    "price": 200,
+    "thumbnail": "https://hindireadduniya.com/wp-content/uploads/2021/12/Orange.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pineapple/अनानास",
+    "price": 250,
+    "thumbnail": "https://hindireadduniya.com/wp-content/uploads/2021/12/Pineapple-%E0%A4%85%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%B8.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Papaya/पपीता",
+    "price": 300,
+    "thumbnail": "https://hindireadduniya.com/wp-content/uploads/2021/12/Papaya.jpg" 
+  },
+  
+    {"id": 6,
+    "title": "Mango/आम",
+    "price": 350,
+    "thumbnail":"https://hindireadduniya.com/wp-content/uploads/2021/12/mango-%E0%A4%86%E0%A4%AE.jpg"
+  },
+  {"id": 7,
+  "title": "Guava/अमरुद",
+  "price": 400,
+  "thumbnail":"https://hindireadduniya.com/wp-content/uploads/2021/12/guava-%E0%A4%85%E0%A4%AE%E0%A4%B0%E0%A5%82%E0%A4%A6.jpg"
+},
+{"id": 8,
+"title": "Watermelon/तरबूज",
+"price": 450,
+"thumbnail": "https://hindireadduniya.com/wp-content/uploads/2021/12/Watermelon-%E0%A4%A4%E0%A4%B0%E0%A4%AC%E0%A5%82%E0%A4%9C.jpg"
+},
+{"id": 9,
+"title": "Cherry/चेरी",
+"price": 500,
+"thumbnail": "https://hindireadduniya.com/wp-content/uploads/2021/12/Cherry-%E0%A4%9A%E0%A5%87%E0%A4%B0%E0%A5%80.jpg"
+},
+{"id": 10,
+"title": "Lychee/लीची",
+"price": 550,
+"thumbnail": "https://hindireadduniya.com/wp-content/uploads/2021/12/Lychees-%E0%A4%B2%E0%A5%80%E0%A4%9A%E0%A5%80.jpg"
+},
+{"id": 11,
+"title": "Pomegranate/अनार",
+"price": 600,
+"thumbnail": "https://hindireadduniya.com/wp-content/uploads/2021/12/Pomegranate-%E0%A4%85%E0%A4%A8%E0%A4%BE%E0%A4%B0.jpg"
+},
+{"id": 12,
+"title": "Tamarind/इमली",
+"price": 650,
+"thumbnail": "https://hindireadduniya.com/wp-content/uploads/2021/12/Tamarind-%E0%A4%87%E0%A4%AE%E0%A4%B2%E0%A5%80.jpg"
+}
+]
